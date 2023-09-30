@@ -1,0 +1,50 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!21 &2100000
+Material:
+  serializedVersion: 6
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_Name: Xiexe_Minecraft_Non_Particle
+  m_Shader: {fileID: 4800000, guid: 6d6a2770b7018064b9c653c27bcaab86, type: 3}
+  m_ShaderKeywords: 
+  m_LightmapFlags: 4
+  m_EnableInstancingVariants: 0
+  m_DoubleSidedGI: 0
+  m_CustomRenderQueue: -1
+  stringTagMap: {}
+  disabledShaderPasses: []
+  m_SavedProperties:
+    serializedVersion: 3
+    m_TexEnvs:
+    - _MainTex:
+        m_Texture: {fileID: 2800000, guid: 62382f6cc3650a848bdd9c668dcf9f5c, type: 3}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - _ScrollTex:
+        m_Texture: {fileID: 0}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - _StaticMask:
+        m_Texture: {fileID: 0}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    m_Floats:
+    - _Brightness: 3
+    - _DotAmnt: 1
+    - _DotOffset: 1.04
+    - _Pulse: 1
+    - _RimSize: 1
+    - _Rounding: 10
+    - _ScrollMainTex: 0
+    - _Size: 0.04
+    - _Speed: 1
+    - _SpeedMainTex: 1
+    - _TextureOffset: 0
+    - _WorldSpaceUV: 0
+    - _WorldSpaceUV2: 0
+    m_Colors:
+    - _Color: {r: 0, g: 1, b: 0.78737426, a: 1}
+    - _InteriorColor: {r: 0, g: 1, b: 0.99050134, a: 0.2509804}

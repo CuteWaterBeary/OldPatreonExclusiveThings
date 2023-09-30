@@ -1,0 +1,138 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!21 &2100000
+Material:
+  serializedVersion: 6
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_Name: Starfeild
+  m_Shader: {fileID: 4800000, guid: d23c3f54ff9ffa042a19aab4f6d00f13, type: 3}
+  m_ShaderKeywords: _
+  m_LightmapFlags: 4
+  m_EnableInstancingVariants: 0
+  m_DoubleSidedGI: 0
+  m_CustomRenderQueue: -1
+  stringTagMap: {}
+  disabledShaderPasses: []
+  m_SavedProperties:
+    serializedVersion: 3
+    m_TexEnvs:
+    - _BumpMap:
+        m_Texture: {fileID: 0}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - _DetailAlbedoMap:
+        m_Texture: {fileID: 0}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - _DetailMask:
+        m_Texture: {fileID: 0}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - _DetailNormalMap:
+        m_Texture: {fileID: 0}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - _EmissionMap:
+        m_Texture: {fileID: 0}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - _MainTex:
+        m_Texture: {fileID: 0}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - _MetallicGlossMap:
+        m_Texture: {fileID: 0}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - _OcclusionMap:
+        m_Texture: {fileID: 0}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - _ParallaxMap:
+        m_Texture: {fileID: 0}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - _ScrollTex:
+        m_Texture: {fileID: 0}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - _ScrollingTex:
+        m_Texture: {fileID: 2800000, guid: bb47b838a0905154496dfe9920ae73b0, type: 3}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - _StarTexture:
+        m_Texture: {fileID: 2800000, guid: 91fde47cdb047874abe1b4ae378b2cc4, type: 3}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - _StaticMask:
+        m_Texture: {fileID: 0}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    m_Floats:
+    - _AnimateSpriteSheet: 0
+    - _AnimationSpeed: 0
+    - _Brightness: 2
+    - _BumpScale: 1
+    - _Cutoff: 0.5
+    - _CycleLines: 1
+    - _CycleStars: 0
+    - _DetailNormalMapScale: 1
+    - _DotAmnt: 1
+    - _DotOffset: 0.01
+    - _DotsAlbedo: 0
+    - _DotsScrolling: 0
+    - _DstBlend: 0
+    - _GlitchIntensity: 0.1
+    - _GlitchSpeed: 20
+    - _GlossMapScale: 1
+    - _Glossiness: 0.5
+    - _GlossyReflections: 1
+    - _JitterScroll: 1
+    - _LMStrength: 1
+    - _LightProbeMethod: 0
+    - _LineAlbedo: 0
+    - _LineCycleSpeed: 5
+    - _LineRotation: 0
+    - _LineScrolling: 0
+    - _Metallic: 0
+    - _Mode: 0
+    - _OcclusionStrength: 1
+    - _Parallax: 0.02
+    - _RTLMStrength: 1
+    - _RimRange: 1
+    - _RimSize: 1
+    - _RotationSpeed: 0
+    - _Rounding: 1000
+    - _ScaleJitter: 0.6
+    - _ScrollMainTex: 0
+    - _ScrollSpeed: 0
+    - _SheetCol: 1
+    - _SheetRow: 1
+    - _SizeAnim: 1
+    - _SmoothnessTextureChannel: 0
+    - _SpecLMOcclusionAdjust: 0.2
+    - _SpecularHighlights: 1
+    - _SpecularLMOcclusion: 0
+    - _Speed: -0.8
+    - _SpeedMainTex: 1
+    - _SpriteScaleBack: 1
+    - _SrcBlend: 1
+    - _StarCycleSpeed: 5
+    - _StarTravelSpeed: 1.62
+    - _TextureOffset: 0
+    - _TextureSampleMode: 0
+    - _TotalFrames: 1
+    - _TriangleScale: 0.2
+    - _TriplanarFalloff: 1
+    - _UVSec: 0
+    - _VerticalLines: 56.71
+    - _WireThickness: 0.06
+    - _WorldSpaceUV: 0
+    - _WorldSpaceUV2: 0
+    - _ZWrite: 1
+    m_Colors:
+    - _Color: {r: 0, g: 0.7931032, b: 1, a: 1}
+    - _Color2: {r: 1.2573528, g: 3, b: 2.855781, a: 1}
+    - _EmissionColor: {r: 0, g: 0, b: 0, a: 1}

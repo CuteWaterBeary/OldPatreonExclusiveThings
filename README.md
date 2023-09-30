@@ -6,3 +6,5 @@ __Note: This repository will only contain things that were exclusive to Patreon.
 __If the asset is in this repository, it means that it will no longer be maintained or updated regularly.__
 
 __Please don't ask for support on these, as I will not respond to those support requests!__
+
+BSD 3-Clause License
